@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'Feriirawan'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_32AEA8616D494B6582F9646312E82C53 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AE514CA5301B4FFF81BE277804890CA3 }}
